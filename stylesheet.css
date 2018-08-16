@@ -1,8 +1,31 @@
 body{
-    background-image: url(resumecatphoto.jpg);
+    background-image: url(backgroundimage.jpg);
     background-size: cover;
+    
+}
+
+
+.logo{
+    width: 7.5%;
+    opacity: .6;
+
+}
+
+.catphoto{
+    display: block;
+    margin: auto;
+    width: 50%;
+    border-radius: 10%;
 }
 
 .brand-logo{
-    margin-left: 1em;
+    margin-left: 4em;
+}
+
+.card {
+  
+}
+.font {
+    color: aliceblue;
+    
 }
